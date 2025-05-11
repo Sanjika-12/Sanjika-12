@@ -15,7 +15,7 @@ I am eager to work in a challenging and dynamic environment where I can contribu
 ## 💼 Work Experience
 
 **Consultant**  
-*Genpact – Bengaluru | Nov 2023 *
+*Genpact – Bengaluru | Nov 2023*
 
 - Applied strong foundation in Java to develop robust and scalable backend services.
 - Designed and developed a **Training Administration Portal** using Spring MVC, handling all phases of the SDLC.
