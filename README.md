@@ -35,7 +35,7 @@ I am eager to work in a challenging and dynamic environment where I can contribu
 - **Languages:** Java, Python, SQL
 - **Frameworks:** Spring Boot, Spring MVC
 - **Cloud:** AWS
-- **Tools & Concepts:** Git, REST APIs, Role-based Security, Problem Solving
+- **Microservices:** Spring Cloud, Eureka, API Gateway
 
 ---
 
